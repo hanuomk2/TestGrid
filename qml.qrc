@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main.cpp</file>
+        <file>gridPartsImage.qml</file>
+        <file>const.js</file>
+    </qresource>
+</RCC>
